@@ -72,9 +72,4 @@ without live data behind every layer yet.
 Copy `.env.example` to `.env` and fill in real keys when you connect real
 services. Nothing is hardcoded.
 
-## Data & ethics notes
 
-All incident, report and analytics data is seeded demo data, clearly
-labeled "DEMO STREAM" — no real citizen or government data is used. AI
-confidence scores are described as evidence strength, never as proof of
-authenticity.
